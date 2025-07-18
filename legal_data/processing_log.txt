@@ -1,0 +1,169 @@
+LEGAL DOCUMENT PROCESSING - ONE PDF = ONE CHUNK
+======================================================================
+Started: 2025-07-18T13:32:37.273487
+Device: cuda
+Collection: test_documents
+Graph RAG: ENABLED
+Mode: ONE PDF = ONE CHUNK = ONE ID
+
+[2025-07-18 13:32:37] 📁 Found 22 PDF files in testdoc
+[2025-07-18 13:32:37] 📄 Processing (1/22): 8. NRI Taxi vs Registrar.pdf
+[2025-07-18 13:32:37] 🔄 Trying PyPDFLoader for 8. NRI Taxi vs Registrar.pdf (attempt 1)
+[2025-07-18 13:32:37] ✅ PyPDFLoader succeeded: 5 pages, 8119 chars
+[2025-07-18 13:32:37] ✅ PDF processed as ONE CHUNK: 8. NRI Taxi vs Registrar.pdf
+[2025-07-18 13:32:37] 📊 Document ID: d1a0320f-84eb-4af5-a14b-05769c9ed261
+[2025-07-18 13:32:37] 📊 Document stats: 8127 chars, 5 pages
+[2025-07-18 13:32:37] 📊 Legal entities: 3 judges, 6 parties
+[2025-07-18 13:32:37] 📄 Processing (2/22): 9. Bennet Coleman vs E1.pdf
+[2025-07-18 13:32:37] 🔄 Trying PyPDFLoader for 9. Bennet Coleman vs E1.pdf (attempt 1)
+[2025-07-18 13:32:38] ✅ PyPDFLoader succeeded: 8 pages, 14107 chars
+[2025-07-18 13:32:38] ✅ PDF processed as ONE CHUNK: 9. Bennet Coleman vs E1.pdf
+[2025-07-18 13:32:38] 📊 Document ID: f6ef7b54-15b2-4a8f-aa41-342facac89a7
+[2025-07-18 13:32:38] 📊 Document stats: 14121 chars, 8 pages
+[2025-07-18 13:32:38] 📊 Legal entities: 2 judges, 4 parties
+[2025-07-18 13:32:38] 📄 Processing (3/22): 10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf
+[2025-07-18 13:32:38] 🔄 Trying PyPDFLoader for 10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf (attempt 1)
+[2025-07-18 13:32:38] ✅ PyPDFLoader succeeded: 7 pages, 11829 chars
+[2025-07-18 13:32:38] ✅ PDF processed as ONE CHUNK: 10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf
+[2025-07-18 13:32:38] 📊 Document ID: 54518f3c-9a10-4879-8d5e-b2233b930625
+[2025-07-18 13:32:38] 📊 Document stats: 11841 chars, 7 pages
+[2025-07-18 13:32:38] 📊 Legal entities: 3 judges, 6 parties
+[2025-07-18 13:32:38] 📄 Processing (4/22): 1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf
+[2025-07-18 13:32:38] 🔄 Trying PyPDFLoader for 1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf (attempt 1)
+[2025-07-18 13:32:38] ✅ PyPDFLoader succeeded: 7 pages, 12459 chars
+[2025-07-18 13:32:38] ✅ PDF processed as ONE CHUNK: 1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf
+[2025-07-18 13:32:38] 📊 Document ID: c07da926-21df-4043-8282-bc88c902dd35
+[2025-07-18 13:32:38] 📊 Document stats: 12471 chars, 7 pages
+[2025-07-18 13:32:38] 📊 Legal entities: 2 judges, 9 parties
+[2025-07-18 13:32:38] 📄 Processing (5/22): 12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf
+[2025-07-18 13:32:38] 🔄 Trying PyPDFLoader for 12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf (attempt 1)
+[2025-07-18 13:32:39] ✅ PyPDFLoader succeeded: 7 pages, 12903 chars
+[2025-07-18 13:32:39] ✅ PDF processed as ONE CHUNK: 12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf
+[2025-07-18 13:32:39] 📊 Document ID: 6bacc797-cfa3-4439-9bc7-5872bc6904af
+[2025-07-18 13:32:39] 📊 Document stats: 12915 chars, 7 pages
+[2025-07-18 13:32:39] 📊 Legal entities: 2 judges, 4 parties
+[2025-07-18 13:32:39] 📄 Processing (6/22): 2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf
+[2025-07-18 13:32:39] 🔄 Trying PyPDFLoader for 2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf (attempt 1)
+[2025-07-18 13:32:39] ✅ PyPDFLoader succeeded: 10 pages, 17334 chars
+[2025-07-18 13:32:39] ✅ PDF processed as ONE CHUNK: 2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf
+[2025-07-18 13:32:39] 📊 Document ID: c42a33d6-69df-4b37-861f-f2c1deb1aca7
+[2025-07-18 13:32:39] 📊 Document stats: 17352 chars, 10 pages
+[2025-07-18 13:32:39] 📊 Legal entities: 1 judges, 23 parties
+[2025-07-18 13:32:39] 📄 Processing (7/22): 7.Toyota vs Tech Square.pdf
+[2025-07-18 13:32:39] 🔄 Trying PyPDFLoader for 7.Toyota vs Tech Square.pdf (attempt 1)
+[2025-07-18 13:32:40] ✅ PyPDFLoader succeeded: 19 pages, 34982 chars
+[2025-07-18 13:32:40] ✅ PDF processed as ONE CHUNK: 7.Toyota vs Tech Square.pdf
+[2025-07-18 13:32:40] 📊 Document ID: c89a6fec-92da-4fb4-b1de-864bdda69eaa
+[2025-07-18 13:32:40] 📊 Document stats: 35018 chars, 19 pages
+[2025-07-18 13:32:40] 📊 Legal entities: 2 judges, 12 parties
+[2025-07-18 13:32:40] 📄 Processing (8/22): 17. Burger King vs. Ranjan Gupta.pdf
+[2025-07-18 13:32:40] 🔄 Trying PyPDFLoader for 17. Burger King vs. Ranjan Gupta.pdf (attempt 1)
+[2025-07-18 13:32:40] ✅ PyPDFLoader succeeded: 16 pages, 31037 chars
+[2025-07-18 13:32:41] ✅ PDF processed as ONE CHUNK: 17. Burger King vs. Ranjan Gupta.pdf
+[2025-07-18 13:32:41] 📊 Document ID: dbd365c0-2996-4193-888c-026f217582cf
+[2025-07-18 13:32:41] 📊 Document stats: 31067 chars, 16 pages
+[2025-07-18 13:32:41] 📊 Legal entities: 1 judges, 26 parties
+[2025-07-18 13:32:41] 📄 Processing (9/22): 13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf
+[2025-07-18 13:32:41] 🔄 Trying PyPDFLoader for 13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf (attempt 1)
+[2025-07-18 13:32:41] ✅ PyPDFLoader succeeded: 16 pages, 27541 chars
+[2025-07-18 13:32:41] ✅ PDF processed as ONE CHUNK: 13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf
+[2025-07-18 13:32:41] 📊 Document ID: 39e4305d-adc7-47c1-a5c8-3b6b6a5bc9a2
+[2025-07-18 13:32:41] 📊 Document stats: 27571 chars, 16 pages
+[2025-07-18 13:32:41] 📊 Legal entities: 3 judges, 22 parties
+[2025-07-18 13:32:41] 📄 Processing (10/22): 3. LOREAL INDIA PVT. LTD vs Kumar.pdf
+[2025-07-18 13:32:41] 🔄 Trying PyPDFLoader for 3. LOREAL INDIA PVT. LTD vs Kumar.pdf (attempt 1)
+[2025-07-18 13:32:41] ✅ PyPDFLoader succeeded: 10 pages, 17688 chars
+[2025-07-18 13:32:42] ✅ PDF processed as ONE CHUNK: 3. LOREAL INDIA PVT. LTD vs Kumar.pdf
+[2025-07-18 13:32:42] 📊 Document ID: 1b860eb8-b880-412b-8d35-682783ac988d
+[2025-07-18 13:32:42] 📊 Document stats: 17706 chars, 10 pages
+[2025-07-18 13:32:42] 📊 Legal entities: 1 judges, 12 parties
+[2025-07-18 13:32:42] 📄 Processing (11/22): 7B Toyota vs Tech Square.pdf
+[2025-07-18 13:32:42] 🔄 Trying PyPDFLoader for 7B Toyota vs Tech Square.pdf (attempt 1)
+[2025-07-18 13:32:42] ✅ PyPDFLoader succeeded: 19 pages, 35020 chars
+[2025-07-18 13:32:42] ✅ PDF processed as ONE CHUNK: 7B Toyota vs Tech Square.pdf
+[2025-07-18 13:32:42] 📊 Document ID: 168f76ea-bce7-4a33-b4b3-14e1a5178b1f
+[2025-07-18 13:32:42] 📊 Document stats: 35056 chars, 19 pages
+[2025-07-18 13:32:42] 📊 Legal entities: 2 judges, 12 parties
+[2025-07-18 13:32:42] 📄 Processing (12/22): 11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf
+[2025-07-18 13:32:42] 🔄 Trying PyPDFLoader for 11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf (attempt 1)
+[2025-07-18 13:32:43] ✅ PyPDFLoader succeeded: 15 pages, 40320 chars
+[2025-07-18 13:32:43] ✅ PDF processed as ONE CHUNK: 11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf
+[2025-07-18 13:32:43] 📊 Document ID: c6dc71aa-d4a7-4c30-a033-56269835933d
+[2025-07-18 13:32:43] 📊 Document stats: 40348 chars, 15 pages
+[2025-07-18 13:32:43] 📊 Legal entities: 2 judges, 16 parties
+[2025-07-18 13:32:43] 📄 Processing (13/22): 16. Pandrol vs Patil Rail.pdf
+[2025-07-18 13:32:43] 🔄 Trying PyPDFLoader for 16. Pandrol vs Patil Rail.pdf (attempt 1)
+[2025-07-18 13:32:44] ✅ PyPDFLoader succeeded: 27 pages, 52782 chars
+[2025-07-18 13:32:44] ✅ PDF processed as ONE CHUNK: 16. Pandrol vs Patil Rail.pdf
+[2025-07-18 13:32:44] 📊 Document ID: 1f38873e-5a8f-40bb-8b1b-4ff34bb14b55
+[2025-07-18 13:32:44] 📊 Document stats: 52834 chars, 27 pages
+[2025-07-18 13:32:44] 📊 Legal entities: 1 judges, 12 parties
+[2025-07-18 13:32:44] 📄 Processing (14/22): 15. SANDISK LLC vs Excel.pdf
+[2025-07-18 13:32:44] 🔄 Trying PyPDFLoader for 15. SANDISK LLC vs Excel.pdf (attempt 1)
+[2025-07-18 13:32:44] ✅ PyPDFLoader succeeded: 8 pages, 14677 chars
+[2025-07-18 13:32:45] ✅ PDF processed as ONE CHUNK: 15. SANDISK LLC vs Excel.pdf
+[2025-07-18 13:32:45] 📊 Document ID: 8f8f8ba3-888c-47fc-af86-59213dcd224e
+[2025-07-18 13:32:45] 📊 Document stats: 14691 chars, 8 pages
+[2025-07-18 13:32:45] 📊 Legal entities: 2 judges, 8 parties
+[2025-07-18 13:32:45] 📄 Processing (15/22): 18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf
+[2025-07-18 13:32:45] 🔄 Trying PyPDFLoader for 18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf (attempt 1)
+[2025-07-18 13:32:45] ✅ PyPDFLoader succeeded: 6 pages, 9979 chars
+[2025-07-18 13:32:45] ✅ PDF processed as ONE CHUNK: 18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf
+[2025-07-18 13:32:45] 📊 Document ID: 478352b8-475f-464a-b324-8d41e8facbf4
+[2025-07-18 13:32:45] 📊 Document stats: 9989 chars, 6 pages
+[2025-07-18 13:32:45] 📊 Legal entities: 2 judges, 14 parties
+[2025-07-18 13:32:45] 📄 Processing (16/22): 20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf
+[2025-07-18 13:32:45] 🔄 Trying PyPDFLoader for 20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf (attempt 1)
+[2025-07-18 13:32:45] ✅ PyPDFLoader succeeded: 11 pages, 20360 chars
+[2025-07-18 13:32:45] ✅ PDF processed as ONE CHUNK: 20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf
+[2025-07-18 13:32:45] 📊 Document ID: 834ade02-d548-43cd-89c8-a59a34b5763d
+[2025-07-18 13:32:45] 📊 Document stats: 20380 chars, 11 pages
+[2025-07-18 13:32:45] 📊 Legal entities: 2 judges, 12 parties
+[2025-07-18 13:32:45] 📄 Processing (17/22): 19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf
+[2025-07-18 13:32:45] 🔄 Trying PyPDFLoader for 19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf (attempt 1)
+[2025-07-18 13:32:46] ✅ PyPDFLoader succeeded: 18 pages, 31538 chars
+[2025-07-18 13:32:46] ✅ PDF processed as ONE CHUNK: 19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf
+[2025-07-18 13:32:46] 📊 Document ID: affbae6d-e043-48a4-8fac-4a16aa97cc0f
+[2025-07-18 13:32:46] 📊 Document stats: 31572 chars, 18 pages
+[2025-07-18 13:32:46] 📊 Legal entities: 2 judges, 13 parties
+[2025-07-18 13:32:46] 📄 Processing (18/22): 5. Vinod agarwal vs Meera Devi.pdf
+[2025-07-18 13:32:46] 🔄 Trying PyPDFLoader for 5. Vinod agarwal vs Meera Devi.pdf (attempt 1)
+[2025-07-18 13:32:46] ✅ PyPDFLoader succeeded: 5 pages, 9021 chars
+[2025-07-18 13:32:46] ✅ PDF processed as ONE CHUNK: 5. Vinod agarwal vs Meera Devi.pdf
+[2025-07-18 13:32:46] 📊 Document ID: e326bdc6-ec8d-4f06-a33a-06bda4dc33aa
+[2025-07-18 13:32:46] 📊 Document stats: 9029 chars, 5 pages
+[2025-07-18 13:32:46] 📊 Legal entities: 3 judges, 2 parties
+[2025-07-18 13:32:46] 📄 Processing (19/22): 4. Alpha vs Alpha.pdf
+[2025-07-18 13:32:46] 🔄 Trying PyPDFLoader for 4. Alpha vs Alpha.pdf (attempt 1)
+[2025-07-18 13:32:46] ✅ PyPDFLoader succeeded: 7 pages, 11513 chars
+[2025-07-18 13:32:47] ✅ PDF processed as ONE CHUNK: 4. Alpha vs Alpha.pdf
+[2025-07-18 13:32:47] 📊 Document ID: f9023657-ed52-4097-9e12-999c3043d40f
+[2025-07-18 13:32:47] 📊 Document stats: 11525 chars, 7 pages
+[2025-07-18 13:32:47] 📊 Legal entities: 2 judges, 2 parties
+[2025-07-18 13:32:47] 📄 Processing (20/22): 14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf
+[2025-07-18 13:32:47] 🔄 Trying PyPDFLoader for 14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf (attempt 1)
+[2025-07-18 13:32:47] ✅ PyPDFLoader succeeded: 6 pages, 8448 chars
+[2025-07-18 13:32:47] ✅ PDF processed as ONE CHUNK: 14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf
+[2025-07-18 13:32:47] 📊 Document ID: 7543934d-0581-44c3-8828-06bfd54e642f
+[2025-07-18 13:32:47] 📊 Document stats: 8458 chars, 6 pages
+[2025-07-18 13:32:47] 📊 Legal entities: 2 judges, 8 parties
+[2025-07-18 13:32:47] 📄 Processing (21/22): 6. Dorco vs Durga.pdf
+[2025-07-18 13:32:47] 🔄 Trying PyPDFLoader for 6. Dorco vs Durga.pdf (attempt 1)
+[2025-07-18 13:32:47] ✅ PyPDFLoader succeeded: 7 pages, 11278 chars
+[2025-07-18 13:32:47] ✅ PDF processed as ONE CHUNK: 6. Dorco vs Durga.pdf
+[2025-07-18 13:32:47] 📊 Document ID: e782ae12-a2f1-4138-ba29-e24e88d1fbb4
+[2025-07-18 13:32:47] 📊 Document stats: 11290 chars, 7 pages
+[2025-07-18 13:32:47] 📊 Legal entities: 3 judges, 4 parties
+[2025-07-18 13:32:47] 📄 Processing (22/22): 7A Toyota vs Tech Square.pdf
+[2025-07-18 13:32:47] 🔄 Trying PyPDFLoader for 7A Toyota vs Tech Square.pdf (attempt 1)
+[2025-07-18 13:32:48] ✅ PyPDFLoader succeeded: 19 pages, 35020 chars
+[2025-07-18 13:32:48] ✅ PDF processed as ONE CHUNK: 7A Toyota vs Tech Square.pdf
+[2025-07-18 13:32:48] 📊 Document ID: 29bb988b-fcd8-4a78-8da3-583cfad06a22
+[2025-07-18 13:32:48] 📊 Document stats: 35056 chars, 19 pages
+[2025-07-18 13:32:48] 📊 Legal entities: 2 judges, 12 parties
+[2025-07-18 13:32:48] ✅ Directory processing completed (ONE PDF = ONE CHUNK):
+[2025-07-18 13:32:48]  📊 Processed: 22 files
+[2025-07-18 13:32:48]  📚 Total chunks: 22 (1 per PDF)
+[2025-07-18 13:32:48]  🕸️ Graph entities: 284
+[2025-07-18 13:32:48]  🔗 Graph nodes: 255
+[2025-07-18 13:32:48]  🔗 Graph edges: 472

@@ -1,0 +1,134 @@
+{
+  "cfa04b60873db8b717c7da1d0987b39d": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/8. NRI Taxi vs Registrar.pdf",
+    "processed_at": "2025-07-18T13:35:41.579821",
+    "chunks": 12,
+    "collection": "test_documents"
+  },
+  "37d603023b0a8308399bd508207de631": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/9. Bennet Coleman vs E1.pdf",
+    "processed_at": "2025-07-18T13:35:42.092625",
+    "chunks": 19,
+    "collection": "test_documents"
+  },
+  "62af65fd1d16f80532030acc80153e0d": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf",
+    "processed_at": "2025-07-18T13:35:42.550064",
+    "chunks": 18,
+    "collection": "test_documents"
+  },
+  "3caba37dcf72d5fd6f65b21464b64866": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf",
+    "processed_at": "2025-07-18T13:35:43.005711",
+    "chunks": 18,
+    "collection": "test_documents"
+  },
+  "ccf0319c198c55d880fa873113027e25": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf",
+    "processed_at": "2025-07-18T13:35:43.478039",
+    "chunks": 19,
+    "collection": "test_documents"
+  },
+  "5d74b120e694aa26fa7eb0e07a330a42": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf",
+    "processed_at": "2025-07-18T13:35:44.089128",
+    "chunks": 25,
+    "collection": "test_documents"
+  },
+  "e11f09b01120ed66cef3cfcb576920d3": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/7.Toyota vs Tech Square.pdf",
+    "processed_at": "2025-07-18T13:35:45.288903",
+    "chunks": 48,
+    "collection": "test_documents"
+  },
+  "c200faa6652fdbbefe9b66cd3d32f0eb": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/17. Burger King vs. Ranjan Gupta.pdf",
+    "processed_at": "2025-07-18T13:35:46.536570",
+    "chunks": 44,
+    "collection": "test_documents"
+  },
+  "021436e809ada0f1819ff0ebf779f5e5": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf",
+    "processed_at": "2025-07-18T13:35:47.560992",
+    "chunks": 41,
+    "collection": "test_documents"
+  },
+  "6a613d15d75cafd42137721436ea72f5": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/3. LOREAL INDIA PVT. LTD vs Kumar.pdf",
+    "processed_at": "2025-07-18T13:35:48.195324",
+    "chunks": 24,
+    "collection": "test_documents"
+  },
+  "c69824f3c94ce8a232f28ff8a1aa4a56": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/7B Toyota vs Tech Square.pdf",
+    "processed_at": "2025-07-18T13:35:49.400756",
+    "chunks": 48,
+    "collection": "test_documents"
+  },
+  "22f1fa3c75a658f2b4085e98ad155cd5": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf",
+    "processed_at": "2025-07-18T13:35:50.919539",
+    "chunks": 54,
+    "collection": "test_documents"
+  },
+  "979e3d3b124a8b991bf0769b5ace3b46": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/16. Pandrol vs Patil Rail.pdf",
+    "processed_at": "2025-07-18T13:35:52.656762",
+    "chunks": 76,
+    "collection": "test_documents"
+  },
+  "0931ebfa2a12602b199e660e6f47a9bd": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/15. SANDISK LLC vs Excel.pdf",
+    "processed_at": "2025-07-18T13:35:53.175040",
+    "chunks": 20,
+    "collection": "test_documents"
+  },
+  "1e62320f5d8d7e530838911d34196db8": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf",
+    "processed_at": "2025-07-18T13:35:53.521055",
+    "chunks": 14,
+    "collection": "test_documents"
+  },
+  "d90c65f6814671bdc6d0f0c993f15906": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf",
+    "processed_at": "2025-07-18T13:35:54.279698",
+    "chunks": 31,
+    "collection": "test_documents"
+  },
+  "6f78b45110119fc96acfc84d0f9f0486": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf",
+    "processed_at": "2025-07-18T13:35:55.414675",
+    "chunks": 42,
+    "collection": "test_documents"
+  },
+  "3f711615a0ae2827bdd75bc5c0a7323a": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/5. Vinod agarwal vs Meera Devi.pdf",
+    "processed_at": "2025-07-18T13:35:55.767488",
+    "chunks": 13,
+    "collection": "test_documents"
+  },
+  "67b7347a9e6a79b6fec5ae85f075f070": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/4. Alpha vs Alpha.pdf",
+    "processed_at": "2025-07-18T13:35:56.421911",
+    "chunks": 17,
+    "collection": "test_documents"
+  },
+  "0b569e3bddfe78657e18cee4f3cf6198": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf",
+    "processed_at": "2025-07-18T13:35:56.757838",
+    "chunks": 14,
+    "collection": "test_documents"
+  },
+  "5e902d67d46e7f117256f2d9dd8d5b11": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/6. Dorco vs Durga.pdf",
+    "processed_at": "2025-07-18T13:35:57.211429",
+    "chunks": 16,
+    "collection": "test_documents"
+  },
+  "2cd465b31557a40bf1d06100073f400b": {
+    "file_path": "/home/rudra-panda/Desktop/LegalRAG/testdoc/7A Toyota vs Tech Square.pdf",
+    "processed_at": "2025-07-18T13:35:58.450574",
+    "chunks": 48,
+    "collection": "test_documents"
+  }
+}

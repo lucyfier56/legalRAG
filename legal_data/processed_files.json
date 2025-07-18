@@ -1,0 +1,801 @@
+{
+  "cfa04b60873db8b717c7da1d0987b39d": {
+    "file_path": "testdoc/8. NRI Taxi vs Registrar.pdf",
+    "file_name": "8. NRI Taxi vs Registrar.pdf",
+    "document_id": "d1a0320f-84eb-4af5-a14b-05769c9ed261",
+    "chunks_count": 1,
+    "document_length": 8127,
+    "word_count": 1217,
+    "total_pages": 5,
+    "processed_at": "2025-07-18T13:32:37.928103",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL",
+        "gov.in for compliance. AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "REGISTRAR OF TRADE MARKS",
+        "distinctive. iv. It was further stated that exclusivity was being claimed on the subject trademark as a whole and no exclusive proprietorship was being claimed on any of the descriptive elements of the mark.",
+        "On",
+        "Counsel appearing on behalf of the appellant submits that the subject trademark cannot by any stretch of imagination be termed as la udatory. He places reliance on the judgment of the Division Bench in Mohd. Rafiq",
+        "Modi Sugar Mills Ltd."
+      ],
+      "case_numbers": [
+        "2023/DHC/000578"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 9
+  },
+  "37d603023b0a8308399bd508207de631": {
+    "file_path": "testdoc/9. Bennet Coleman vs E1.pdf",
+    "file_name": "9. Bennet Coleman vs E1.pdf",
+    "document_id": "f6ef7b54-15b2-4a8f-aa41-342facac89a7",
+    "chunks_count": 1,
+    "document_length": 14121,
+    "word_count": 2203,
+    "total_pages": 8,
+    "processed_at": "2025-07-18T13:32:38.212778",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "in view of the judgment of the Supreme Court in Patel Field Marshal Agencies and Anr.",
+        "P.M. Diesels Limited and Ors.",
+        "followed by a Coordinate Bench of this Court in Resilient Innovations Pvt. Ltd.",
+        "Phonepe Private Limited & Anr."
+      ],
+      "case_numbers": [
+        "253/2019",
+        "2022/DHC/005230"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 6
+  },
+  "62af65fd1d16f80532030acc80153e0d": {
+    "file_path": "testdoc/10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf",
+    "file_name": "10. RPG ENTERPRISES LIMITED VS. RPG DEVELOPERS PRIVATE LIMITED.pdf",
+    "document_id": "54518f3c-9a10-4879-8d5e-b2233b930625",
+    "chunks_count": 1,
+    "document_length": 11841,
+    "word_count": 1733,
+    "total_pages": 7,
+    "processed_at": "2025-07-18T13:32:38.446215",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL",
+        "Decree sheet be drawn up. AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "RPG DEVELOPERS PRIVATE LIMITED & OTHERS ..... Defendants Through",
+        "which fact is recognised in the judgment of RPG Enterprises Limited",
+        "Riju Ghoshal and Another",
+        "S RPG ENTERPRISES LIMITED",
+        "Advocates. versus RPG DEVELOPERS PRIVATE LIMITED & OTHERS"
+      ],
+      "case_numbers": [
+        "21/2018",
+        "2022/DHC/005847"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 9
+  },
+  "3caba37dcf72d5fd6f65b21464b64866": {
+    "file_path": "testdoc/1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf",
+    "file_name": "1. WESTERN DIGITAL TECHNOLOGIES VS. SYT SOLUTIONS PVT LTD.pdf",
+    "document_id": "c07da926-21df-4043-8282-bc88c902dd35",
+    "chunks_count": 1,
+    "document_length": 12471,
+    "word_count": 1923,
+    "total_pages": 7,
+    "processed_at": "2025-07-18T13:32:38.710256",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates",
+        "SYT SOLUTIONS PVT. LTD. ..... Defendant Through",
+        "Ltd.",
+        "Regency Convention Centre & Hotels",
+        "In Kasturi",
+        "Iyyamperumal",
+        "Tosh Apartments",
+        "INC & ANR",
+        "Advocates versus SYT SOLUTIONS PVT. LTD."
+      ],
+      "case_numbers": [
+        "835/2018",
+        "2022/DHC/005588"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 11
+  },
+  "ccf0319c198c55d880fa873113027e25": {
+    "file_path": "testdoc/12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf",
+    "file_name": "12. ZINO DAVIDOFF VS. BHALANI ENTERPRISES & ORS.pdf",
+    "document_id": "6bacc797-cfa3-4439-9bc7-5872bc6904af",
+    "chunks_count": 1,
+    "document_length": 12915,
+    "word_count": 1954,
+    "total_pages": 7,
+    "processed_at": "2025-07-18T13:32:39.177488",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocate.",
+        "BHALANI ENTERPRISES & ORS ..... Defendants Through",
+        "ZINO DAVIDOFF SA",
+        "Advocate. versus BHALANI ENTERPRISES & ORS"
+      ],
+      "case_numbers": [
+        "460/2016",
+        "2023/DHC/000458"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 6
+  },
+  "5d74b120e694aa26fa7eb0e07a330a42": {
+    "file_path": "testdoc/2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf",
+    "file_name": "2. SANA HERBALS PVT LTD VS. MOHSIN DELHI VI.pdf",
+    "document_id": "c42a33d6-69df-4b37-861f-f2c1deb1aca7",
+    "chunks_count": 1,
+    "document_length": 17352,
+    "word_count": 2829,
+    "total_pages": 10,
+    "processed_at": "2025-07-18T13:32:39.730111",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocate",
+        "MOHSIN DEHLVI ..... Defendant Through",
+        "the defendant cannot raise the aforesaid issue again. Reliance is placed on the judgment s in Shiv Prasad",
+        "Durga Prasad & Anr.",
+        "Anil Dinmani Shanker Joshi & Anr.",
+        "Chief Officer",
+        "Jaswant Rai & Ors.",
+        "Municipality",
+        "Krishna Saini",
+        "Chameli Devi &Ors.",
+        "In Patel Field Marshal Agencies",
+        "P.M. Diesels Ltd.",
+        "In Abbott Healthcare Pvt. Ltd.",
+        "Raj Kumar Prasad & Anr.",
+        "was subsequently dismissed by the Court with the liberty to apply afresh in the event additional issues were framed in the suit . Relying on the dicta of S. Surjit Singh Sahni",
+        "Brij Mohan Kaur",
+        "refers to S. Surjit Singh Sahni",
+        "titled Ranbaxy Laboratories Ltd.",
+        "Intas Pharmaceutical s Ltd. and against which no appeal is stated to have been preferred",
+        "the defendant cannot be made to suffer . It has been held in Teva Pharmaceutical Industries Ltd. & Ors.",
+        "Natco Pharma Limited",
+        "SANA HERBALS PVT LTD",
+        "Advocate versus MOHSIN DEHLVI"
+      ],
+      "case_numbers": [
+        "813/2016",
+        "2022/DHC/005678"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 24
+  },
+  "e11f09b01120ed66cef3cfcb576920d3": {
+    "file_path": "testdoc/7.Toyota vs Tech Square.pdf",
+    "file_name": "7.Toyota vs Tech Square.pdf",
+    "document_id": "c89a6fec-92da-4fb4-b1de-864bdda69eaa",
+    "chunks_count": 1,
+    "document_length": 35018,
+    "word_count": 5429,
+    "total_pages": 19,
+    "processed_at": "2025-07-18T13:32:40.408268",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates",
+        "TECH SQUARE ENGINEERING PVT. LTD. AND ANR. ..... Respondents Through",
+        "Reliance is placed on the judgment of a Division Bench of this Court in MAC Personal Care Pvt. Ltd.",
+        "Laverana GMBH and Co.",
+        "ordinate Bench of this Court in Keller Williams Realty",
+        "Dingle Buildcons Pvt. Ltd.",
+        "Reliance is placed on the judgment of the Supreme Co urt in Toyota Jidosha Kabushiki Kaisha",
+        "Prius Auto Industries Ltd.",
+        "and the order of IPAB in Hypnos Limited",
+        "Hosur Coir Foam Pvt. Ltd. and Ors.",
+        "ble Apex court has held that in the case of National Sewing Thread Co. Ltd.",
+        "James Chadwick & Bros. Ltd."
+      ],
+      "case_numbers": [
+        "2023/DHC/000777"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 14
+  },
+  "c200faa6652fdbbefe9b66cd3d32f0eb": {
+    "file_path": "testdoc/17. Burger King vs. Ranjan Gupta.pdf",
+    "file_name": "17. Burger King vs. Ranjan Gupta.pdf",
+    "document_id": "dbd365c0-2996-4193-888c-026f217582cf",
+    "chunks_count": 1,
+    "document_length": 31067,
+    "word_count": 4913,
+    "total_pages": 16,
+    "processed_at": "2025-07-18T13:32:41.012441",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "RANJAN GUPTA & ORS ..... Defendants Through",
+        "the Court shall adjourn the case for a period of three months in order to enable the concerned party to apply for rectification of the register. II. It is necessary for the Court to determine the prima facie tenability of the plea of invalidity of the registered trademark raised by the defendant in order to ensure that the defendants do not institute rectification proceedings as a counter blast to the infringement actions filed against them. Reliance in this regard is placed on the judgment s of the Supreme Court in Patel Field Marshal Agencies",
+        "P.M. Digitally Signed By",
+        "and Abbott Healthcare Pvt. Ltd.",
+        "Raj Kumar Prasad & Anr.",
+        "is not tenable as the defendants have failed to show that the plaintiff ha d an intention to abandon the use of their trademark in India. Reliance in this regard is placed on Hardie Trading Ltd. & Anr.",
+        "Addissons Paint & Chemical Ltd.",
+        "and Express Bottlers Services Private Ltd.",
+        "Pepsico Inc. & Ors.",
+        "themselves have applied for registration of the said tradem ark. Reliance in this re gard is placed on the judgment s of the Division Bench of this Court in Indian Hotels Company Limited & Anr.",
+        "Jiva Institute of Vedic Science & Culture",
+        "and PEPS Industries Private Limited",
+        "Kurlon Limited",
+        "cannot be registered. Reliance in this regard is placed on the judgment in National Bell Co.",
+        "Gupta Industrial Corporation",
+        "the plaintiff has failed to give evidence of its user of the trademark BURGER KING in India.",
+        "The issues with regard to the invalidity of the plaintiff",
+        "following the judgment in Automatic Electric Limited",
+        "R.K. Dhawan",
+        "In Sun Pharmaceutical Industries Ltd.",
+        "DWD Pharmaceuticals Ltd.",
+        "countries including India. The Division Bench of this Court in M.A.C Personal Care Pvt. Ltd. & Anr.",
+        "Laverana GMBH and Co. K.G. & Anr.",
+        "BURGER KING CORPORATION",
+        "Advocates. versus RANJAN GUPTA & ORS"
+      ],
+      "case_numbers": [
+        "229/2018",
+        "2023/DHC/001661"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 27
+  },
+  "021436e809ada0f1819ff0ebf779f5e5": {
+    "file_path": "testdoc/13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf",
+    "file_name": "13. KRBL LIMITED VS. VIKRAM ROLLER FLOUR MILLS LIMITED.pdf",
+    "document_id": "39e4305d-adc7-47c1-a5c8-3b6b6a5bc9a2",
+    "chunks_count": 1,
+    "document_length": 27571,
+    "word_count": 4220,
+    "total_pages": 16,
+    "processed_at": "2025-07-18T13:32:41.487064",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL",
+        "Dismissed. AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "VIKRAM ROLLER FLOUR MILLS LIMITED ..... Defendant Through",
+        "Reliance in this regard has been placed on Pioneer Nuts and Bolt s Pvt. Ltd.",
+        "Goodwill Enterprises",
+        "Ltd.",
+        "Kurlon Ltd.",
+        "Dabur India Ltd.",
+        "Real Drinks Pvt. Ltd.",
+        "and S. Narendra Kumar & Co.",
+        "Everest Beverages and Foods Inudstries",
+        "ordinate Bench of this Court in Somany Ceramics Ltd.",
+        "Shri Ganesh Electric Co.",
+        "in Gujarat Bottling Co. Ltd.",
+        "Coca Cola Co.",
+        "ordinate Bench of this Court in Aditya Birla Nuvo Limited",
+        "R.S. Sales Corporation",
+        "Reliance placed on behalf of the plaintiff on the judgments in Pioneer Nuts and Bolts Pvt. Ltd.",
+        "ordinate Bench of this Court in Laxmi Agro Impex India",
+        "Ladli India Commodities",
+        "was upheld by a Division Bench of this Court in Laxmi Agro Impex India",
+        "KRBL LIMITED",
+        "Advocates. versus VIKRAM ROLLER FLOUR MILLS LIMITED"
+      ],
+      "case_numbers": [
+        "550/2022",
+        "2023/DHC/000394"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 25
+  },
+  "6a613d15d75cafd42137721436ea72f5": {
+    "file_path": "testdoc/3. LOREAL INDIA PVT. LTD vs Kumar.pdf",
+    "file_name": "3. LOREAL INDIA PVT. LTD vs Kumar.pdf",
+    "document_id": "1b860eb8-b880-412b-8d35-682783ac988d",
+    "chunks_count": 1,
+    "document_length": 17706,
+    "word_count": 2763,
+    "total_pages": 10,
+    "processed_at": "2025-07-18T13:32:42.027200",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates",
+        "RAJESH KUMAR TANEJA TRADING AS INNOVATIVE DERMA CARE AND ANR ...... Respondents Through",
+        "in Vans Inc. USA",
+        "Fateh Chand Bhansali a nd Anr.",
+        "and Prajapati Constructions Ltd.",
+        "Manoj Ramanand Prajapati and Anr.",
+        "Reliance is placed on the judgment of a Coordinate Bench in Epsilon Publishing House Pvt. L td.",
+        "Union of India and Ors.",
+        "Reliance has also been placed on the order passed by the IPAB in Jahangir Biri Factory Pvt. Ltd.",
+        "Mohd. Dildar Hossain",
+        "the marks have to be seen as a whole and cannot be broken into their individual components. Reference in this regard may be made to the judgment of the Supreme Court in Corn Products Refining Co.",
+        "Shangrila Food Products Ltd."
+      ],
+      "case_numbers": [],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 13
+  },
+  "c69824f3c94ce8a232f28ff8a1aa4a56": {
+    "file_path": "testdoc/7B Toyota vs Tech Square.pdf",
+    "file_name": "7B Toyota vs Tech Square.pdf",
+    "document_id": "168f76ea-bce7-4a33-b4b3-14e1a5178b1f",
+    "chunks_count": 1,
+    "document_length": 35056,
+    "word_count": 5429,
+    "total_pages": 19,
+    "processed_at": "2025-07-18T13:32:42.926360",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates",
+        "TECH SQUARE ENGINEERING PVT. LTD. AND ANR. ..... Respondents Through",
+        "Reliance is placed on the judgment of a Division Bench of this Court in MAC Personal Care Pvt. Ltd.",
+        "Laverana GMBH and Co.",
+        "ordinate Bench of this Court in Keller Williams Realty",
+        "Dingle Buildcons Pvt. Ltd.",
+        "Reliance is placed on the judgment of the Supreme Co urt in Toyota Jidosha Kabushiki Kaisha",
+        "Prius Auto Industries Ltd.",
+        "and the order of IPAB in Hypnos Limited",
+        "Hosur Coir Foam Pvt. Ltd. and Ors.",
+        "ble Apex court has held that in the case of National Sewing Thread Co. Ltd.",
+        "James Chadwick & Bros. Ltd."
+      ],
+      "case_numbers": [
+        "2023/DHC/000776"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 14
+  },
+  "22f1fa3c75a658f2b4085e98ad155cd5": {
+    "file_path": "testdoc/11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf",
+    "file_name": "11. AIWA CO. LTD. VS. AIVVA ENTERPRISES PRIVATE LIMITED & OR.pdf",
+    "document_id": "c6dc71aa-d4a7-4c30-a033-56269835933d",
+    "chunks_count": 1,
+    "document_length": 40348,
+    "word_count": 6751,
+    "total_pages": 15,
+    "processed_at": "2025-07-18T13:32:43.614227",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "AIVVA ENTERPRISES PRIVATE LIMITED & ORS. ..... Defendants Through",
+        "No written authorization was required to be given by a registered proprietor of a trademark for use of the aforesaid trademark. Reliance in this regard is placed on the judgment of the Supreme Court in Cycle Corporation of India Ltd.",
+        "T.I. Raleigh Industries Pvt. Ltd. and Ors.",
+        "Counsel for the defendants has also placed reliance on the judgments in Micolube India Ltd.",
+        "Maggon Auto Centre &Anr.",
+        "Thukral Mechanical Works",
+        "Nitin Machine Tools P. Ltd. &Anr.",
+        "Standipack Private Limited &Ors.",
+        "Oswal Trading Co. Ltd. &Ors.",
+        "B.L. and Co. and others",
+        "Pfizer Products Incl.",
+        "and Kent Ro System Ltd.",
+        "Gattubhai",
+        "AIWA CO. LTD.",
+        "Advocates. Versus AIVVA ENTERPRISES PRIVATE LIMITED & ORS."
+      ],
+      "case_numbers": [
+        "606/2022",
+        "2023/DHC/000041"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 18
+  },
+  "979e3d3b124a8b991bf0769b5ace3b46": {
+    "file_path": "testdoc/16. Pandrol vs Patil Rail.pdf",
+    "file_name": "16. Pandrol vs Patil Rail.pdf",
+    "document_id": "1f38873e-5a8f-40bb-8b1b-4ff34bb14b55",
+    "chunks_count": 1,
+    "document_length": 52834,
+    "word_count": 7951,
+    "total_pages": 27,
+    "processed_at": "2025-07-18T13:32:44.703448",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "PATIL RAIL INFRASTRUCTURE PVT. LTD. & ORS. ..... Defendants Through",
+        "In Microfibres Inc",
+        "Girdhar And Co. and Anr.",
+        "In Mody Pumps Inc and Anr.",
+        "Sovereign Pumping Solutions Provate Limited and Anr.",
+        "Counsel for the defendants has placed reliance on t he judgments in Holland Company LP and Anr.",
+        "S. P. Indusries",
+        "and Jagdamba Impex",
+        "Tristar Products Pvt. Ltd.",
+        "PANDROL LIMITED & ANR.",
+        "Advocates. versus PATIL RAIL INFRASTRUCTURE PVT. LTD. & ORS."
+      ],
+      "case_numbers": [
+        "602/2022",
+        "2023/DHC/001792"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 13
+  },
+  "0931ebfa2a12602b199e660e6f47a9bd": {
+    "file_path": "testdoc/15. SANDISK LLC vs Excel.pdf",
+    "file_name": "15. SANDISK LLC vs Excel.pdf",
+    "document_id": "8f8f8ba3-888c-47fc-af86-59213dcd224e",
+    "chunks_count": 1,
+    "document_length": 14691,
+    "word_count": 2217,
+    "total_pages": 8,
+    "processed_at": "2025-07-18T13:32:45.060228",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "EXCEL MARKETING ..... Defendant Through",
+        "Kam Power Systems Ltd.",
+        "Kunwer Sachdev",
+        "in view of the judgment of the Supr eme Court in Uflex",
+        "Government of Tamil Nadu",
+        "SANDISK LLC & ANR.",
+        "Advocates. versus EXCEL MARKETING"
+      ],
+      "case_numbers": [
+        "992/2018"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 10
+  },
+  "1e62320f5d8d7e530838911d34196db8": {
+    "file_path": "testdoc/18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf",
+    "file_name": "18. Bennet Coleman & Co. Ltd vs. ARG Outlier Media Pvt. Ltd & Ors.pdf",
+    "document_id": "478352b8-475f-464a-b324-8d41e8facbf4",
+    "chunks_count": 1,
+    "document_length": 9989,
+    "word_count": 1548,
+    "total_pages": 6,
+    "processed_at": "2025-07-18T13:32:45.308466",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "ARG OUTLIER MEDIA PVT LTD & ORS. ..... Defendants Through",
+        "Reliance is being placed on the judgment of the Supreme Court in Sudhir Kumar",
+        "Vinay Kumar",
+        "ordinate Bench of this Court in Nitin Gupta",
+        "Taxmaco Infrastructure & Holding Ltd.",
+        "ordinate Benches of this Court in Hassad Food Company Q.S.C.",
+        "Bank of India",
+        "and Mahesh Chaudhri",
+        "IMV India Pvt. Ltd.",
+        "Ltd.",
+        "Maharishi Dayanand Co",
+        "BENNETT COLEMAN & CO. LTD.",
+        "Advocates. versus ARG OUTLIER MEDIA PVT LTD & ORS."
+      ],
+      "case_numbers": [
+        "434/2017",
+        "2023/DHC/001726"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 16
+  },
+  "d90c65f6814671bdc6d0f0c993f15906": {
+    "file_path": "testdoc/20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf",
+    "file_name": "20. TTK PRESTIGE LTD Vs. K K AND COMPANY DELHI PVT.pdf",
+    "document_id": "834ade02-d548-43cd-89c8-a59a34b5763d",
+    "chunks_count": 1,
+    "document_length": 20380,
+    "word_count": 3142,
+    "total_pages": 11,
+    "processed_at": "2025-07-18T13:32:45.914284",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "K K AND COMPANY DELHI PVT LTD & ORS. ..... Defendants Through",
+        "Reliance in this regard is placed on the judgment of a Division Bench of this Court in Pioneer Nuts and Bolts Pvt. Ltd.",
+        "Goodwill Enterprises",
+        "a case of passing off is also made out by the plaintiff. Reliance in this regard is placed on the judgment of United Brothers",
+        "Navin Kumar",
+        "relying upon the earlier judgments in Amaravathi Enterprises",
+        "Karaikudi Chettinadu",
+        "and in Veerumal Praveen Kumar",
+        "Needle Industries",
+        "TTK PRESTIGE LTD",
+        "Advocates. versus K K AND COMPANY DELHI PVT LTD & ORS."
+      ],
+      "case_numbers": [
+        "864/2022",
+        "2023/DHC/001280"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 14
+  },
+  "6f78b45110119fc96acfc84d0f9f0486": {
+    "file_path": "testdoc/19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf",
+    "file_name": "19. ASTRAL LTD Vs. ASHIRVAD PIPES PVT LTD.pdf",
+    "document_id": "affbae6d-e043-48a4-8fac-4a16aa97cc0f",
+    "chunks_count": 1,
+    "document_length": 31572,
+    "word_count": 4896,
+    "total_pages": 18,
+    "processed_at": "2025-07-18T13:32:46.533990",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "ASHIRVAD PIPES PVT LTD ..... Defendant Through",
+        "titled Dr. Reddy Laboratories Limited",
+        "Controller General of Patents Designs and Trademarks.",
+        "Counsel for the plaintiff has placed reliance on my judgment in Soothe Healthcare Pvt. Ltd.",
+        "Dabur India Limited",
+        "Relying upon the judgment of a Division Bench of this Court in Marico Limited",
+        "Agro Tech Food Limited",
+        "reported as Soothe Healthcare Private Limited",
+        "Counsel for the plainti ff has placed strong reliance on the recent judgment of the Division Bench in PEPS Industries Private Limited",
+        "Kurlon Limited",
+        "ASTRAL LTD",
+        "Advocates. versus ASHIRVAD PIPES PVT LTD"
+      ],
+      "case_numbers": [
+        "309/2022",
+        "2023/DHC/001281"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 15
+  },
+  "3f711615a0ae2827bdd75bc5c0a7323a": {
+    "file_path": "testdoc/5. Vinod agarwal vs Meera Devi.pdf",
+    "file_name": "5. Vinod agarwal vs Meera Devi.pdf",
+    "document_id": "e326bdc6-ec8d-4f06-a33a-06bda4dc33aa",
+    "chunks_count": 1,
+    "document_length": 9029,
+    "word_count": 1346,
+    "total_pages": 5,
+    "processed_at": "2025-07-18T13:32:46.760867",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL",
+        "gov.in for compliance. AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "MEERA DEVI & ANR. ..... Respondents Through"
+      ],
+      "case_numbers": [
+        "2023/DHC/001820"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 5
+  },
+  "67b7347a9e6a79b6fec5ae85f075f070": {
+    "file_path": "testdoc/4. Alpha vs Alpha.pdf",
+    "file_name": "4. Alpha vs Alpha.pdf",
+    "document_id": "f9023657-ed52-4097-9e12-999c3043d40f",
+    "chunks_count": 1,
+    "document_length": 11525,
+    "word_count": 1743,
+    "total_pages": 7,
+    "processed_at": "2025-07-18T13:32:47.019592",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "ALPHA INTEGRATED MANAGEMENT SERVICES PVT. LTD. AND ANR. ..... Respondents Through"
+      ],
+      "case_numbers": [],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 4
+  },
+  "0b569e3bddfe78657e18cee4f3cf6198": {
+    "file_path": "testdoc/14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf",
+    "file_name": "14. SNS PRODUCTS PRIVATE VS. IJAZ UDDIN.pdf",
+    "document_id": "7543934d-0581-44c3-8828-06bfd54e642f",
+    "chunks_count": 1,
+    "document_length": 8458,
+    "word_count": 1418,
+    "total_pages": 6,
+    "processed_at": "2025-07-18T13:32:47.223436",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "IJAZ UDDIN ..... Defendant Through",
+        "the judgment of the Division Bench in Ram Sarup Lugani",
+        "Nirmal Lugani",
+        "ordinate Bench in Atlanta Limited",
+        "National Highways & Infrastructure Development Corporation Limited",
+        "SNS PRODUCTS PRIVATE LIMITED",
+        "Advocates. versus IJAZ UDDIN"
+      ],
+      "case_numbers": [
+        "34/2022",
+        "2023/DHC/000970"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 10
+  },
+  "5e902d67d46e7f117256f2d9dd8d5b11": {
+    "file_path": "testdoc/6. Dorco vs Durga.pdf",
+    "file_name": "6. Dorco vs Durga.pdf",
+    "document_id": "e782ae12-a2f1-4138-ba29-e24e88d1fbb4",
+    "chunks_count": 1,
+    "document_length": 11290,
+    "word_count": 1729,
+    "total_pages": 7,
+    "processed_at": "2025-07-18T13:32:47.695642",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL",
+        "gov.in for compliance. AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates.",
+        "DURGA ENTERPRISES AND ANR ..... Respondents Through",
+        "In the judgment in Shell Transource Limited",
+        "Shell International Petroleum Company Ltd."
+      ],
+      "case_numbers": [
+        "2023/DHC/001821"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 7
+  },
+  "2cd465b31557a40bf1d06100073f400b": {
+    "file_path": "testdoc/7A Toyota vs Tech Square.pdf",
+    "file_name": "7A Toyota vs Tech Square.pdf",
+    "document_id": "29bb988b-fcd8-4a78-8da3-583cfad06a22",
+    "chunks_count": 1,
+    "document_length": 35056,
+    "word_count": 5429,
+    "total_pages": 19,
+    "processed_at": "2025-07-18T13:32:48.364788",
+    "legal_metadata": {
+      "judges": [
+        "AMIT BANSAL",
+        "BLE AMIT BANSAL"
+      ],
+      "parties": [
+        "Advocates",
+        "TECH SQUARE ENGINEERING PVT. LTD. AND ANR. ..... Respondents Through",
+        "Reliance is placed on the judgment of a Division Bench of this Court in MAC Personal Care Pvt. Ltd.",
+        "Laverana GMBH and Co.",
+        "ordinate Bench of this Court in Keller Williams Realty",
+        "Dingle Buildcons Pvt. Ltd.",
+        "Reliance is placed on the judgment of the Supreme Co urt in Toyota Jidosha Kabushiki Kaisha",
+        "Prius Auto Industries Ltd.",
+        "and the order of IPAB in Hypnos Limited",
+        "Hosur Coir Foam Pvt. Ltd. and Ors.",
+        "ble Apex court has held that in the case of National Sewing Thread Co. Ltd.",
+        "James Chadwick & Bros. Ltd."
+      ],
+      "case_numbers": [
+        "2023/DHC/000780"
+      ],
+      "courts": []
+    },
+    "collection": "test_documents",
+    "chunking_mode": "single_pdf_one_chunk",
+    "graph_entities_added": 14
+  }
+}
