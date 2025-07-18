@@ -1441,12 +1441,19 @@ Return ONLY the JSON object.
         return (entity_lower in text_lower or entity_lower in source_lower)
 
     def _validate_fuzzy_presence(self, text: str, source_name: str, entity_name: str) -> bool:
-        """Validate fuzzy presence"""
+        """Validate fuzzy presence with stricter judge name matching"""
         text_lower = text.lower()
         source_lower = source_name.lower()
         entity_lower = entity_name.lower()
-        return (fuzz.partial_ratio(entity_lower, text_lower) >= 70 or
-                fuzz.partial_ratio(entity_lower, source_lower) >= 70)
+        
+        # Check if this might be a judge name query
+        is_judge_query = len(entity_lower.split()) > 1 and any(term in text_lower for term in ["judge", "justice", "hon'ble", "coram"])
+        
+        # Use higher threshold for potential judge names
+        threshold = 85 if is_judge_query else 70
+        
+        return (fuzz.partial_ratio(entity_lower, text_lower) >= threshold or
+                fuzz.partial_ratio(entity_lower, source_lower) >= threshold)
 
     def _validate_pattern_presence(self, text: str, source_name: str, entity_name: str) -> bool:
         """Validate pattern presence"""
@@ -1712,7 +1719,7 @@ Return ONLY the JSON object.
                 
                 if self._validate_presence(text, source_name, search_term):
                     confidence = self._calculate_confidence(text, search_term, source_name)
-                    if confidence >= 0.5:
+                    if confidence >= 9:
                         # Create result with complete chunk data
                         result = {
                             **chunk,  # Original complete chunk data
@@ -2395,6 +2402,35 @@ Answer:"""
     # MAIN QUERY INTERFACE
     # ====================================
 
+    
+    def _normalize_judge_name(self, judge_name: str) -> str:
+        """Clean up judge name by removing prefixes and standardizing format"""
+        judge_name = judge_name.strip()
+        
+        # Remove common prefixes
+        prefixes_to_remove = [
+            "justice", "judge", "hon'ble", "hon", "honorable", "honourable",
+            "mr.", "ms.", "mrs.", "shri", "smt.", "j.", "coram:"
+        ]
+        
+        judge_lower = judge_name.lower()
+        for prefix in prefixes_to_remove:
+            if judge_lower.startswith(prefix + " "):
+                judge_name = judge_name[len(prefix) + 1:].strip()
+                judge_lower = judge_name.lower()
+        
+        # Handle prefixes in the middle (like "justice hari shankar")
+        for prefix in prefixes_to_remove:
+            if f" {prefix} " in judge_lower:
+                parts = judge_lower.split(f" {prefix} ")
+                # Take the part after the prefix
+                idx = judge_lower.find(f" {prefix} ") + len(f" {prefix} ")
+                judge_name = judge_name[idx:].strip()
+                break
+        
+        # Capitalize each word
+        return " ".join(word.capitalize() for word in judge_name.split())
+    
     def query(self, query: str, debug: bool = False, previous_context: Dict[str, Any] = None) -> Dict[str, Any]:
         """Main query processing interface - Dynamic and Universal"""
         try:
@@ -2449,7 +2485,10 @@ Answer:"""
                 if entities.get("judge"):
                     entity_value = entities["judge"]
                     entity_type_name = "judge"
-                # Then check for other entity types
+                    
+                    # Normalize judge name - ADD THIS LINE
+                    entity_value = self._normalize_judge_name(entity_value)
+                            # Then check for other entity types
                 elif entities.get("entity"):
                     entity_value = entities["entity"]
                     entity_type_name = "entity"
@@ -2870,12 +2909,4 @@ if __name__ == "__main__":
         data_dir="legal_data"
     )
     
-    # Process documents
-    # result = rag.process_directory("path/to/pdf/directory")
-    # print(result)
     
-    # Query the system - Now works with ANY legal documents
-    # response = rag.query("explain Microsoft vs Apple case")
-    # response = rag.query("who is the judge for XYZ Corp vs ABC Ltd")
-    # response = rag.query("about Samsung vs Sony dispute")
-    # print(response["answer"])
